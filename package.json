@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "private": true,
   "devDependencies": {
+    "babel-preset-react": "^6.11.1",
     "eslint": "^3.5.0",
     "react-scripts": "0.4.1"
   },
